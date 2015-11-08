@@ -1,2 +1,3 @@
 hello Source Tree!
 2th local repository modified
+Conflict of Lab2
