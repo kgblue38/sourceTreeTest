@@ -1,3 +1,4 @@
 hello Source Tree!
 2th local repository modified
 Conflict of Lab1
+Conflict of Lab2
